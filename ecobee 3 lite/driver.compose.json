@@ -1,0 +1,13 @@
+{
+ "name": {"en": "ecobee3lite"}, 
+ "images": {
+     "small": "",
+     "large": ""
+ },
+ "class": "thermostat",
+ "capabilities": [""],
+ "platforms": ["local", "cloud"],
+ "connectivity": "cloud"
+
+}
+  

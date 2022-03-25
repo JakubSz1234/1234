@@ -1,0 +1,15 @@
+{
+    "name": "eu.ecobee",
+    "version": "1.0.0",
+    "description": "Adds support for Ecobee devices.",
+    "main": "app.js",
+
+
+    "keywords": [
+        "Ecobee"
+    ],
+
+    "author": "Jakub Szetlak",
+    "license": "GNU"
+
+}

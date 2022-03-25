@@ -1,0 +1,31 @@
+{
+    "id": "eu.ecobee2",
+    "versin": "1.0.0",
+    "compability": ">=5.0.0",
+    "platforms": ["local", "cloud"],
+    "sdk": 3,
+    "brandColor": "#658C2A",
+    "name": {
+        "en": "Ecobee"
+    },
+
+    "capabilities": ["onoff", "dim"],
+    "capabilitiesOptions": {
+        "title": {"en": "termostatwskaznik"}
+    },
+    "description":{
+        "en": "Adds support for Ecobeee devices."
+    },
+    "dependincies": {
+        "net": "*"
+    },
+    "category": [
+        "appliances"
+    ],
+    "tags": {},
+    "permissions": ["homey:manager:api", "homey:manager:geolocation"],
+    "author": {
+        "email": "jakub.szetlak@wp.pl",
+        "name": "Jakub Szetlak"
+    }
+}
